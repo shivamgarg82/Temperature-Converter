@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Temperature Converter</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="converter-container">
+      <h1>🌡️ Temperature Converter</h1>
+
+      <div class="input-group">
+        <input
+          type="number"
+          id="temperature"
+          placeholder="Enter temperature"
+          oninput="convertTemperature()"
+        />
+        <select id="unit" title="unit" onchange="convertTemperature()">
+          <option value="celsius">Celsius (°C)</option>
+          <option value="fahrenheit">Fahrenheit (°F)</option>
+          <option value="kelvin">Kelvin (K)</option>
+        </select>
+      </div>
+
+      <div class="results">
+        <div class="result-box">
+          <label>Celsius (°C)</label>
+          <input title="input" type="text" id="celsius" readonly />
+        </div>
+        <div class="result-box">
+          <label>Fahrenheit (°F)</label>
+          <input title="input" type="text" id="fahrenheit" readonly />
+        </div>
+        <div class="result-box">
+          <label>Kelvin (K)</label>
+          <input title="input" type="text" id="kelvin" readonly />
+        </div>
+      </div>
+    </div>
+    <footer><h2>@2025 All copyrights are reserved. Shivam Garg</h2></footer>
+    <script src="script.js"></script>
+  </body>
+</html>
