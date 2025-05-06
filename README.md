@@ -1,37 +1,25 @@
-🌡️ Temperature Converter:
+# 🌡️ Temperature Converter  
+*A simple, lightweight tool to convert between Celsius (°C), Fahrenheit (°F), and Kelvin (K).*  
 
-A simple web-based tool to convert temperatures between Celsius, Fahrenheit, and Kelvin.
+![Demo Screenshot](https://raw.githubusercontent.com/shivamgarg82/Temperature-Converter/main/screenshot.png) *(Replace this URL with your actual screenshot link after uploading)*  
 
-[Screenshot 2025-05-06 145304](https://github.com/user-attachments/assets/066db98d-6f82-474c-9d6d-b574759571b2)
+## 🔥 Features  
+- **Real-time conversion** between Celsius, Fahrenheit, and Kelvin.  
+- **Responsive design** works on mobile and desktop.  
+- **No dependencies** (pure HTML, CSS, JavaScript).  
+- **Easy to use**—just type and see results instantly!  
 
-🔥 Features
-Convert between Celsius (°C), Fahrenheit (°F), and Kelvin (K).
+## 🚀 Quick Start  
+1. **Clone the repo**:  
+   ```sh
+   git clone https://github.com/shivamgarg82/Temperature-Converter.git
 
-Real-time calculation as you type.
+![Screenshot 2025-05-06 145304](https://github.com/user-attachments/assets/f9aaacdb-caf8-477e-b532-ca32c8b0d52d)
 
-Clean and responsive UI.
+🛠️ Tech Stack
+Frontend: HTML5, CSS3, Vanilla JavaScript.
 
-Copy results to clipboard (optional, if implemented).
+🤝 Contribute
+Report bugs via Issues.
 
-🚀 How to Use
-https://temperatureconverte1.netlify.app/
-
-🛠️ How It Works
-Input a temperature in any unit.
-
-The other fields update automatically.
-
-Built with:
-
-HTML, CSS, JavaScript (Vanilla JS).
-
-📸 Screenshot:
-
-[Screenshot 2025-05-06 145304](https://github.com/user-attachments/assets/066db98d-6f82-474c-9d6d-b574759571b2)
-
-🤝 How to Contribute
-
-Found a bug? 
-
-Open an Issue.
-
+Suggest features or open a Pull Request.
