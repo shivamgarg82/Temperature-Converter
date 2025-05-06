@@ -23,3 +23,5 @@ Frontend: HTML5, CSS3, Vanilla JavaScript.
 Report bugs via Issues.
 
 Suggest features or open a Pull Request.
+
+Made with ❤️ by Shivam Garg
