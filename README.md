@@ -13,7 +13,7 @@
 
 ### Quick Run (No Installation)
 Simply open `index.html` in any web browser
- 
+  
 ### For Developers
 ```bash
 # Clone the repository
