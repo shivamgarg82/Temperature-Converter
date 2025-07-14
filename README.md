@@ -10,7 +10,7 @@
 - **Easy to use**—just type and see results instantly!  
 
 ## 🚀 Quick Start  
-    
+     
 ### Quick Run (No Installation)
 Simply open `index.html` in any web browser
   
